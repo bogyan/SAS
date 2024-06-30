@@ -1,1 +1,1 @@
-This is some programs I created during my SAS course. Overall, I have developed a strong proficiency in SAS programming. My skills include data manipulation, statistical analysis, and reporting using SAS procedures. I am adept at writing efficient SAS code to clean, transform, and analyze data sets of varying complexities. 
+These are some programs I created during my SAS course. Overall, I have developed a strong proficiency in SAS programming, specializing in data manipulation, statistical analysis, and reporting using SAS procedures.
